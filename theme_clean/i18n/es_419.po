@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Odoo Server saas~18.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-28 17:44+0000\n"
-"PO-Revision-Date: 2026-05-10 02:21+0000\n"
+"PO-Revision-Date: 2026-10-20 15:33+0000\n"
 "Last-Translator: \"Fernanda Alvarez (mfar)\" <mfar@odoo.com>\n"
 "Language-Team: Spanish (Latin America) <https://translate.odoo.com/projects/"
-"odoo-s19-3/theme_clean/es_419/>\n"
+"odoo-20/theme_clean/es_419/>\n"
 "Language: es_419\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 #. module: theme_clean
 #: model:ir.module.module,shortdesc:base.module_theme_clean
@@ -43,7 +43,7 @@ msgstr "ID"
 #. module: theme_clean
 #: model:ir.module.module,summary:base.module_theme_clean
 msgid "Legal, Corporate, Business, Tech, Services"
-msgstr ""
+msgstr "Legal, corporativo, negocios, tecnología, servicios"
 
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_shape_image
@@ -95,6 +95,15 @@ msgid ""
 "suited for legal practices, business consultancies, technology companies, "
 "and professional services"
 msgstr ""
+"Diseño con ritmo vertical que combina un cuadro con una sección de bloques "
+"de color, filas alternadas de texto e imágenes, una vitrina de cifras, un "
+"bloque básico del equipo y una sección de preguntas frecuentes en acordeón "
+"con recortes de imágenes en formas y líneas con patrones (aro ovalado "
+"dibujado a mano, patrón de puntos y laberinto) que mantienen la identidad "
+"visual en el elemento y las filas de contenido. Enfocado en el texto y con "
+"gran densidad de información, con amplio espacio en blanco / ideal para "
+"despachos legales, consultoras empresariales, empresas de tecnología y "
+"servicios profesionales"
 
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_color_blocks_2
